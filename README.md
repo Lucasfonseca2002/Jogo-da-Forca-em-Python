@@ -1,1 +1,3 @@
-# Jogo-da-Forca-em-Python
+# Jogo-da-Forca
+
+Jogo da Forca feito em Python!
